@@ -10,6 +10,7 @@ Following are the features handled as part of this code:
     4. Update the details of Scheduled mails.
     5. Soft Delete the enteries from the database.
     6. Store the details of the rejected mails.
+    7. APis provided for above operation(Email Services.postman_collection.json)
     
   Technoogy/Language/Packages/Dependencies
   Node.js v10.16.3
