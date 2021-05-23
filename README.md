@@ -11,6 +11,7 @@ Following are the features handled as part of this code:
     5. Soft Delete the enteries from the database.
     6. Store the details of the rejected mails.
     7. APis provided for above operation(Email Services.postman_collection.json)
+    8. Database with structure (contact_detail.sql)
     
   Technoogy/Language/Packages/Dependencies
   Node.js v10.16.3
