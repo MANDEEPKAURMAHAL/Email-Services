@@ -13,7 +13,7 @@ Following are the features handled as part of this code:
     7. APis provided for above operation(Email Services.postman_collection.json)
     8. Database with structure (contact_detail.sql)
     
-  Technoogy/Language/Packages/Dependencies
+  Technology/Language/PackagesDependencies
   Node.js v10.16.3
   "body-parser": "^1.19.0",
   "email-validator": "^2.0.4",
